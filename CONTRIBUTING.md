@@ -7,7 +7,7 @@ Welcome to the contributions from everyone, whether it's fixing a bug, enhancing
 ## Getting Started
 
 1. Fork this repository to your own account.
-2. Clone the forked repository to your local machine using `git clone https://github.com/your-username/Movie-Recommendation-Enchanter.git`.
+2. Clone the forked repository to your local machine using `git clone https://github.com/Hrishita-Shah/Movie-Recommendation-Enchanter.git`.
 3. Create a new branch for your contribution: `git checkout -b feature/your-feature-name`.
 
 ## Making Contributions
