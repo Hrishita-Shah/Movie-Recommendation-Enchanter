@@ -1,8 +1,9 @@
 # Movie Magic: Your Personalized Film Guide
 
 Welcome to the **Movie Recommendation Enchanter** – your ticket to discovering a world of cinematic wonders tailored just for you! 🍿🎬
+![Picture](https://github.com/Hrishita-Shah/Movie-Recommendation-Enchanter/assets/97698248/4d66dd50-e907-4fb2-a449-0f916c83f0b7)
 
-[![Watch the Video](https://your-video-thumbnail-url-here.jpg)](https://www.kapwing.com/videos/64e904e752f0f2001e280d94)
+[![Watch the Video](https://github.com/Hrishita-Shah/Movie-Recommendation-Enchanter/assets/97698248/4d66dd50-e907-4fb2-a449-0f916c83f0b7)](https://www.kapwing.com/videos/64e904e752f0f2001e280d94)
 
 ## Lights, Camera, Algorithm!
 
