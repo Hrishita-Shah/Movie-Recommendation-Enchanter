@@ -2,7 +2,7 @@
 
 Welcome to the **Movie Recommendation Enchanter** – your ticket to discovering a world of cinematic wonders tailored just for you! 🍿🎬
 
-[![Watch the Video][streamlit-app-2023-08-24-20-08-87.webm](https://github.com/Hrishita-Shah/Movie-Recommendation-Enchanter/assets/97698248/4904a5f1-0654-4a05-ae5f-0813c93d92de)](https://www.kapwing.com/videos/64e904e752f0f2001e280d94)
+[streamlit-app-2023-08-24-20-08-87.webm](https://github.com/Hrishita-Shah/Movie-Recommendation-Enchanter/assets/97698248/4904a5f1-0654-4a05-ae5f-0813c93d92de)
 
 ## Lights, Camera, Algorithm!
 
